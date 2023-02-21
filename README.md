@@ -1,2 +1,2 @@
-# RubyonRails_TestProject
+# RubyonRails
 Learning Ruby on rails
